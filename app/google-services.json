@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "760071126001",
+    "firebase_url": "https://imagevideo-4cb89-default-rtdb.firebaseio.com",
+    "project_id": "imagevideo-4cb89",
+    "storage_bucket": "imagevideo-4cb89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760071126001:android:62176d1638078335e02250",
+        "android_client_info": {
+          "package_name": "app.test.viewmodel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKug-JMqbNwxvU3zgQJH6GFvWEZVtB8sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760071126001:android:06b44a05f73454eee02250",
+        "android_client_info": {
+          "package_name": "com.example.imagevideo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKug-JMqbNwxvU3zgQJH6GFvWEZVtB8sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
